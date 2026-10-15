@@ -1,0 +1,3 @@
+pdfplumber
+Pillow
+python-docx
