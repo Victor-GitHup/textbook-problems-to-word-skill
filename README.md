@@ -17,6 +17,8 @@
 
 Codex 用户也可直接让 `$skill-installer` 从上面的 Skill 文件夹链接安装。Claude Code 用户可把 `textbook-problems-to-word` 整个文件夹放到 `~/.claude/skills/`。仅有普通文本聊天功能、不能读取附件或执行脚本的 AI 无法完成此流程。
 
+如果 AI 不能直接访问 GitHub，先由同学下载 ZIP，再把 ZIP 作为附件上传给 AI，并发送同一段提示词。
+
 ## 收到安装完成回复后
 
 上传教材 PDF，并列出作业标题、印刷页码和题号。例如：
